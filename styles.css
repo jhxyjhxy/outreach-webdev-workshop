@@ -1,0 +1,26 @@
+body {
+    background-color: #447BBE;
+}
+
+h1 {
+    color: #B11313;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: #B11313;
+    text-align: center;
+}
+
+img {
+    border-style: dotted;
+}
+
+img:hover {
+    border-style: solid;
+}
